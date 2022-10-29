@@ -8,4 +8,4 @@ def weight():
 
 weight = weight()
 height = height()
-BMI = weight/ height * height
+BMI = weight/height**2
